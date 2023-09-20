@@ -1,0 +1,35 @@
+uni class x inherit y
+{static uni int x;
+\\uni int define a(b:int,c:int)
+\\{
+\\int x;
+\\return 0;
+\\}
+uni static void main()
+{
+int x;
+\\count(int x;)
+\\{
+x++;
+\\}
+if(x<0)
+x-=3;
+else
+{
+x+=3;
+}
+int y=a+5*5-3||5&&4;
+\\a=new A();
+\\a:fn();
+}
+static uni int y;
+\\uni int final b(a:int,float,string,char,bool)
+\\{
+int x;
+\\return 0;
+\\}
+}
+class A
+{
+A();
+}
